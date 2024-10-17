@@ -30,4 +30,5 @@ public class RechercheVilleTest {
         assertEquals(List.of("Valence", "Vancouver"), result, "La recherche 'Va' doit retourner Valence et Vancouver.");
     }
 
+
 }
